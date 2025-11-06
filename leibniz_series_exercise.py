@@ -9,4 +9,4 @@ def approximate_pi(n_terms):
     denom += 2
   pi = sum(list_of_numbers)
   pi *= 4
-  print(pi)
+  return pi
